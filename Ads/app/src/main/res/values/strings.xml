@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ads</string>
+
+
+    <string name="listing_second">/2607994/OMH_Home_Remedies_APP_Listing_300x250_1</string>
+    <string name="listing_fifth">/2607994/OMH_Home_Remedies_APP_Listing_300x250_2</string>
+    <string name="listing_eight">/2607994/OMH_Home_Remedies_APP_Listing_300x250_3</string>
+
+    <string name="simple_banner_ads">ca-app-pub-8158315839737160/8584495333</string>
+    <string name="interstialads_unit_id">ca-app-pub-8158315839737160/7531234939</string>
+
+    <!--DFP UNIT ID-->
+    <string name="dfp_banner_ads">/6253334/dfp_example_ad</string>
+    <string name="dfp_interstialads_unit_id">/6499/example/interstitial</string>
+</resources>
